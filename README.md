@@ -1,7 +1,8 @@
-# 腰果映像博客网站
-基于jekyll-theme-chirpy<br />
-https://www.cashewteam.top
+# [https://www.cashewteam.top][cashewteam]
 
+# 腰果映像博客网站
+基于[jekyll-theme-chirpy][chirpy]<br />
+↓原项目Readme
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
@@ -40,7 +41,8 @@ This repository is automatically updated with new releases from the theme reposi
 ## License
 
 This work is published under [MIT][mit] License.
-
+<!-- 填写链接 -->
+[cashewteam]: https://www.cashewteam.top
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
