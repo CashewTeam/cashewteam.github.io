@@ -286,9 +286,22 @@ var B_proj = dot(B_world - cam_world, cam_dir);
 var z_dist = A_proj - B_proj;
 z_dist;
 ```
+# 其他
+## 在关键帧前随机颜色
+用于颜色属性
+```javascript
+if (time < nearestKey(time).time){
+posterizeTime(4);//设置帧数
+seedRandom(index,timeless=false)
+random([0,0,0,1],[1,1,1,1]);
+}else{
+	nearestKey(time).value;
+}
+```
 
 <!-- 
 MarkDownJS代码格式
+
 ```javascript
 
 ```
