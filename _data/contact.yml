@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: youtube
+  icon: "fa-youtube-play"
+  url:  'https://space.bilibili.com/9565289'
 
 - type: email
   icon: "fas fa-envelope"
