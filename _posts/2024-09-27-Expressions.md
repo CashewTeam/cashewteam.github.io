@@ -7,13 +7,13 @@ description: 个人之前写的After Effects表达式
 pin: false
 ---
 
-# 表达式学习相关链接：
+## 表达式学习相关链接：
 [Con幺幺的AE学习笔记](https://space.bilibili.com/1762926/channel/collectiondetail?sid=185180)<br />
 [月离AE表达式文档](https://docs.yuelili.com/#/book/Ae/expression)<br />
 [鹤梦表达式增强库](https://github.com/dreamstring/Leaf)
-# 标记字幕表达式
+## 标记字幕表达式
 
-## 基于标记生成字幕
+### 基于标记生成字幕
 支持混合使用普通标记和有持续时间的标记，将表达式添加到带有标记的文本层使用。
 ```javascript
 m = thisLayer.marker.nearestKey(time);
@@ -46,7 +46,7 @@ if(m.time <= time){
 }
 ```
 
-## 基于图层标记时间映射动画
+### 基于图层标记时间映射动画
 同上，支持混合使用普通标记和有持续时间的标记，示例表达式可用于图层透明度属性。<br />
 将表达式添加到带有标记的文本层，或者添加到其他图层将layer1修改为文本层使用。<br />
 建议学习：[AE文本动画文档](https://docs.yuelili.com/#/post/Ae/basic/zh/text-animation/Expression-Selector.md)<br />
@@ -144,8 +144,8 @@ if(nowMark==""){
 }
 ```
 
-# 路径跟踪
-## 获取修剪路径上的点坐标
+## 路径跟踪
+### 获取修剪路径上的点坐标
 ```javascript
 thePath = ;//路径
 startEndValue = ;//开始点/结束点
@@ -169,7 +169,7 @@ var getTrimPathPoint = function(thePath,startEndValue,offSetValue) {
 getTrimPathPoint(thePath,startEndValue,offSetValue);
 ```
 
-## 获取修剪路径上的点切线方向
+### 获取修剪路径上的点切线方向
 ```javascript
 thePath = ;//路径
 startEndValue = ;//开始点/结束点
@@ -183,9 +183,9 @@ var getTrimPathRotion = function(thePath,startEndValue,offSetValue) {
 }
 getTrimPathRotion(thePath,startEndValue,offSetValue);
 ```
-# 数组取整
+## 数组取整
 
-## 数组四舍五入取整
+### 数组四舍五入取整
 ```javascript
 value = ;//此处输入数组
 var arrayRound = function(value) {
@@ -199,7 +199,7 @@ var arrayRound = function(value) {
 arrayRound(value);
 ```
 
-## 数组去除小数
+### 数组去除小数
 ```javascript
 value = ;//此处输入数组
 var arrayTrunc = function(value) {
@@ -213,7 +213,7 @@ var arrayTrunc = function(value) {
 arrayTrunc(value)
 ```
 
-## 数组向上取整
+### 数组向上取整
 ```javascript
 value = ;//此处输入数组
 var arrayCeil = function(value) {
@@ -227,7 +227,7 @@ var arrayCeil = function(value) {
 arrayCeil(value)
 ```
 
-## 数组向下取整
+### 数组向下取整
 ```javascript
 value = ;//此处输入数组
 var arrayFloor = function(value) {
@@ -240,15 +240,15 @@ var arrayFloor = function(value) {
 }
 arrayFloor(value);
 ```
-# 获取图层变换
-## 获取真实位置
+## 获取图层变换
+### 获取真实位置
 ```javascript
 targetLayer = ;//输入图层
 targetLayer.toWorld([0,0,0]);
 
 ```
 
-## 获取真实旋转方向
+### 获取真实旋转方向
 ```javascript
 targetLayer = ;//输入图层
 function getXRotion(){
@@ -266,7 +266,7 @@ function getZRotion(){
 }
 [getXRotion(),getYRotion(),getZRotion()];
 ```
-## 计算两个物体在摄像机屏幕坐标系下的z轴距离
+### 计算两个物体在摄像机屏幕坐标系下的z轴距离
 计算两个物体的前后距离，同时可用于判断物体前后关系<br />
 New Bing AI写的表达式
 ```javascript
@@ -286,8 +286,8 @@ var B_proj = dot(B_world - cam_world, cam_dir);
 var z_dist = A_proj - B_proj;
 z_dist;
 ```
-# 其他
-## 在关键帧前随机颜色
+## 其他
+### 在关键帧前随机颜色
 用于颜色属性
 ```javascript
 if (time < nearestKey(time).time){
