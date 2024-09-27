@@ -4,7 +4,7 @@
   icon: "fab fa-github"
 
 - type: youtube
-  icon: "fab fa-youtube-play"
+  icon: "fa-brands fa-bilibili"
   url:  'https://space.bilibili.com/9565289'
 
 - type: email
