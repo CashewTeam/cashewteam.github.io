@@ -1,4 +1,10 @@
-@import 'main';
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+// 让目录不产生折叠效果
 .is-collapsed {
-    max-height: none !important;
-  }
+  max-height: none !important;
+}
