@@ -1,8 +1,10 @@
 ---
 title: 欢迎来到腰果映像
 date: 2024-09-27 14:00:00 +800
-categories: [文章, 杂谈]
-tags: [杂谈]     # TAG names should always be lowercase
+categories: [文章, 其他]
+tags: [腰果映像]     # TAG names should always be lowercase
+description: 这里是Con幺幺和他朋友们的视频、动效、三维制作工作室
+pin: true
 ---
 
 这里是Con幺幺和他朋友们的视频、动效、三维制作工作室
