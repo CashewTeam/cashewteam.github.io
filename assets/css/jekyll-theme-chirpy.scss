@@ -1,8 +1,13 @@
+---
+---
+
 @import 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
 ';
+
+/* append your custom style below */
 
 // 让目录不产生折叠效果
 .is-collapsed {
