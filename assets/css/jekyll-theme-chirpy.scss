@@ -15,28 +15,11 @@
 }
 
 #sidebar {
-  position: relative; /* 为伪元素提供定位 */
-  overflow: hidden; /* 确保伪元素不会超出边界 */
-}
-
-#sidebar::before {
-  content: ""; /* 伪元素必须有内容 */
-  position: absolute; /* 绝对定位 */
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url(https://www.cashewteam.top/assets/image/bg.jpg); /* 背景图像 */
-  background-size: cover; /* 自定义图像大小 */
-  background-repeat: no-repeat; /* 不重复 */
-  background-position: top; /* 图像位置 */
-  opacity: 0.5; /* 半透明效果 */
-  z-index: 0; /* 使伪元素在内容下方 */
-}
-
-#sidebar > * {
-  position: relative; /* 使内容层级高于伪元素 */
-  z-index: 1; /* 确保内容在伪元素上方 */
+  background-image: url(https://www.cashewteam.top/assets/image/bg.jpg); /* <- change background image */
+  background-size: cover; /* <- customize the image size */
+  background-repeat: no-repeat; /* <- no-repeat */
+  background-position: top; /* <- image position */
+  //filter: opacity(0.5);
 }
 
 @import "animation.scss";    // 背景动画样式
