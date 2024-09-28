@@ -1,7 +1,7 @@
 ---
 title: 如何让Jekyll Theme Chirpy右侧目录始终展开
 date: 2024-09-28 11:11:00 +800
-categories: [教程, 其他]
+categories: [教程, 前端]
 tags: [jekyll]     # TAG names should always be lowercase
 description: 修改"\assets\css\jekyll-theme-chirpy.scss"中的内容
 pin: false
