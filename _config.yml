@@ -46,11 +46,11 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: google5b2fb5cdb51aae5c # fill in your Google verification code
   bing: 84F45C485C852D714F91685E179F35F8 # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
+  baidu: codeva-q8tOUdwRQH # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
