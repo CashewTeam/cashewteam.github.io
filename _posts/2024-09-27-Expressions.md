@@ -1,7 +1,7 @@
 ---
 title: 自用AE表达式
 date: 2024-09-27 20:30:00 +800
-categories: [资源, AE]
+categories: [AE, AE资源]
 tags: [AE, 表达式]     # TAG names should always be lowercase
 description: 个人之前写的After Effects表达式
 pin: false
