@@ -152,6 +152,8 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+backgroud_animation: true
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -224,4 +226,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-background_animation: true
