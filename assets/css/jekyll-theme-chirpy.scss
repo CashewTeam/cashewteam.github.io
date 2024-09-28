@@ -22,4 +22,31 @@
   //filter: opacity(0.5);
 }
 
+@import 'colors/colors-light.scss';
+@import 'colors/colors-dark.scss';
+
+html {
+    @media (prefers-color-scheme: light) {
+      &:not([data-mode]),
+      &[data-mode='light'] {
+        @include light-colors;
+      }
+  
+      &[data-mode='dark'] {
+        @include dark-colors;
+      }
+    }
+  
+    @media (prefers-color-scheme: dark) {
+      &:not([data-mode]),
+      &[data-mode='dark'] {
+        @include dark-colors;
+      }
+  
+      &[data-mode='light'] {
+        @include light-colors;
+      }
+    }
+  }
+
 @import "animation.scss";    // 背景动画样式
