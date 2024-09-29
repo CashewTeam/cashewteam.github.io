@@ -27,7 +27,7 @@ image:
 title: 标题
 date: 2024-09-29 14:10:00 +0800
 categories: [主分类, 子分类]
-tags: [标签]     # TAG 名称应始终为小写，但实测好像不需要
+tags: [标签]     # TAG 名称应始终为小写
 image:
   path: /path/to/image
   alt: 图片描述文本

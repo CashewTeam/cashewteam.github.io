@@ -2,7 +2,7 @@
 title: 无名字幕导入脚本
 date: 2024-09-29 13:45:00 +800
 categories: [AE, AE脚本]
-tags: [AE, 脚本]     # TAG names should always be lowercase
+tags: [ae, 脚本]     # TAG names should always be lowercase
 description: Subtitles Converter
 pin: false
 ---
