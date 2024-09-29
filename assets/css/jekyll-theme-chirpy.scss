@@ -9,10 +9,9 @@
 
 /* append your custom style below */
 
-//根据变量折叠
-
+//将折叠后最大长度设为无限
 .is-collapsed {
-  max-height: {{ page.collapsed }} !important;
+  max-height: none;
 }
 
 
