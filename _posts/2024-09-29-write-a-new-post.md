@@ -3,7 +3,7 @@ title: 如何在 Chirpy 使用 Markdown 撰写文章
 date: 2024-09-29 16:30:00 +0800
 categories: [网络, 建站]
 tags: [jekyll, Markdown]
-render_with_liquid: false
+render_with_liquid: true
 pin: false
 math: true
 mermaid: true
@@ -11,7 +11,7 @@ image:
   path: /assets/image/posts/writeanewpost/devices-mockup.png
   alt: Chirpy 主题在多平台上的响应式渲染。
 ---
-简单翻译并改进一下官方的文档，方便我后续用Markdown写文章。
+简单翻译并改进一下官方的文档，方便我后续用Markdown写文章。<br />
 本教程将指导您如何在 _Chirpy_ 模板中撰写文章，即使您以前使用过 Jekyll，也值得阅读，因为许多功能需要特殊的设置。
 
 ## 文件名与路径
@@ -193,27 +193,50 @@ image:
 #### H4 — 标题
 ```
 ## 正文
-换行符
+### 换行符
 ```
 <br />
 ```
+### 文本样式
 块引用/斜体
-> This line shows the _block quote_.
+> This line shows the _斜体_.
+  第二行
+> 第三行
+
 ```
-> This line shows the _block quote_.
+> This line shows the _斜体_.
+  第二行
+> 第三行
 ```
 **加粗**
 ```
 **加粗**
 ```
 ~~划除~~
+
 ```
 ~~划除~~
 ```
+行内代码<br />
+
+这是一个 `行内代码`的示例<br />
+```
+这是一个 `行内代码`的示例<br />
+```
+文件路径<br />
+
+这是一个文件路径 `/path/to/the/file.extend`{: .filepath}.
+```
+`/path/to/the/file.extend`{: .filepath}.
+```
+
 ### 链接
-
 <http://127.0.0.1:4000>
-
+[标题](http://127.0.0.1:4000)
+```
+<http://127.0.0.1:4000>
+[标题](http://127.0.0.1:4000)
+```
 ### 脚注
 
 点击角标将跳转到脚注[^footnote]，这是另一个脚注[^fn-nth-2]。
@@ -221,16 +244,8 @@ image:
 文本[^footnote]  文本[^fn-nth-2]
 ```
 
-### 行内代码
 
-这是一个 `行内代码`的示例
 
-### 文件路径
-
-这是一个文件路径 `/path/to/the/file.extend`{: .filepath}.
-```
-`/path/to/the/file.extend`{: .filepath}.
-```
 
 ## 列表
 
@@ -250,18 +265,19 @@ image:
 - Chapter
   - Section
     - Paragraph
-```
+* 第一
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+```markdown
 - Chapter
   - Section
     - Paragraph
-```
-
 * 第一
-
 ```
-* 第一
+<!-- markdownlint-restore -->
 
-```
+
 
 
 ### ToDo 列表
@@ -472,7 +488,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 ![Desktop View](/assets/image/posts/writeanewpost/mockup.png){: width="972" height="589" .w-50 .right}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
-##### Dark/Light mode & Shadow
+##### 暗/光模式和阴影
 
 下图将根据主题偏好切换深色/浅色模式，请注意它有阴影。
 
@@ -527,7 +543,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 - `types` — 指定以`|`分隔的其他视频格式的扩展名。确保这些文件与您的主视频文件位于同一目录中。
 
 一个使用上述所有内容的示例：
-
+{% raw %}
 ```liquid
 {%
   include embed/video.html
@@ -540,14 +556,16 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
   muted=true
 %}
 ```
+{% endraw %}
 
 ### 音频
 
 如果要直接嵌入音频文件，请使用以下语法：
-
+{% raw %}
 ```liquid
 {% include embed/audio.html src='{URL}' %}
 ```
+{% endraw %}
 
 Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
 
@@ -558,6 +576,7 @@ Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
 
 考虑一个使用上述所有内容的示例：
 
+{% raw %}
 ```liquid
 {%
   include embed/audio.html
@@ -566,7 +585,7 @@ Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
   title='Demo audio'
 %}
 ```
-
+{% endraw %}
 
 ## 代码
 
@@ -738,7 +757,10 @@ mermaid: true
 ---
 ```
 
-然后你可以像其他 `Markdown` 语言一样使用它： ```` ```mermaid ````    ```` ``` ````.
+然后你可以像其他 `Markdown` 语言一样使用它：<br />
+```` ```mermaid ````<br />
+```` ``` ````<br />
+示例：
 ```mermaid
  gantt
   title  Adding GANTT diagram functionality to mermaid
@@ -746,17 +768,8 @@ mermaid: true
   banana :crit, b, 2017-07-23, 1d
   cherry :active, c, after b a, 1d
 ```
-示例代码：
+[代码](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1)
 
-```markdown
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-```
 
 
 
