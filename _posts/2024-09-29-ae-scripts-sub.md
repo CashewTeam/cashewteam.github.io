@@ -1,16 +1,15 @@
 ---
 title: 无名字幕导入脚本
-date: 2024-09-28 19:00:00 +800
+date: 2024-09-29 13:45:00 +800
 categories: [AE, AE脚本]
 tags: [AE, 脚本]     # TAG names should always be lowercase
 description: Subtitles Converter
 pin: false
-image:
-  path: /assets/image/posts/aescripts/20230629174013-XM.png
-  alt: Subtitles Converter
 ---
 ## Subtitles Converter
-SRT 剪映JSON 导入脚本
+SRT 剪映JSON 导入脚本<br />
+![字幕脚本](/assets/image/posts/aescripts/20230629174013-XM.png)
+_Subtitles Convertern_
 
 ## 使用说明
 ### 安装
