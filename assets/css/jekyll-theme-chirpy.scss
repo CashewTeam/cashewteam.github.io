@@ -9,13 +9,13 @@
 
 /* append your custom style below */
 
-// 让目录不产生折叠效果
-//.is-collapsible {
-//  max-height: 1000px !important;
-//}
-
+//可被折叠的高度
+.is-collapsible {
+  max-height: 150px !important;
+/}
+//折叠后的高度
 .is-collapsed {
-  max-height: 100px !important;
+  max-height: 0px !important;
 }
 
 #sidebar {
