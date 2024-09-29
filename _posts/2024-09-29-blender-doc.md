@@ -2,7 +2,7 @@
 title: Blender 文档导航
 date: 2024-09-29 20:50:00 +800
 categories: [Blender, Blender文档]
-tags: [blender, 文档, 几何节点, 插件]     # TAG names should always be lowercase
+tags: [Blender, 文档, 几何节点, 插件]     # TAG names should always be lowercase
 description: 简单搜集汇总一下网上的 Blender 文档，还有的话可以在评论区补充。
 pin: false
 image:
@@ -57,4 +57,3 @@ image:
 [Erindale Toolkit 所有节点介绍视频](https://www.youtube.com/watch?v=57FaqP_Q36w&t=1s)<br />
 
 
-<!-- []()<br />

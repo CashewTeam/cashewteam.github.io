@@ -2,7 +2,7 @@
 title: 旧AE工程整理
 date: 2024-09-28 19:00:00 +800
 categories: [AE, AE工程]
-tags: [ae, 工程]     # TAG names should always be lowercase
+tags: [AE, 工程]     # TAG names should always be lowercase
 description: 之前做的AE工程文件
 pin: false
 ---
