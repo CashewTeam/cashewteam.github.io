@@ -11,8 +11,9 @@
 
 //将折叠后最大长度设为无限
 .is-collapsed {
-  max-height: none;
+  max-height: none !important;
 }
+
 
 
 #sidebar {
