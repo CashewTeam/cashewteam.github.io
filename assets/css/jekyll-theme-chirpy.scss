@@ -10,7 +10,7 @@
 /* append your custom style below */
 
 //根据开关折叠
-{% if site.collapsed == true %}
+{% if page.collapsed == true %}
 .is-collapsed {
   max-height: 0 !important;
 }
