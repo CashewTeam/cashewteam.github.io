@@ -7,7 +7,7 @@ render_with_liquid: false
 pin: false
 math: true
 mermaid: true
-collapsed: true
+collapsed: 0
 image:
   path: /assets/image/posts/writeanewpost/devices-mockup.png
   alt: Chirpy 主题在多平台上的响应式渲染。
