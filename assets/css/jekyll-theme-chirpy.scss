@@ -10,13 +10,16 @@
 /* append your custom style below */
 
 //根据开关折叠
+{% if site.collapsed == true %}
 .is-collapsed {
-  @if $site.collapsed == true {
-    max-height: 0px !important;
-  } @else {
-    max-height: none !important;
-  }
+  max-height: 0 !important;
 }
+{% else %}
+.is-collapsed {
+  max-height: none !important;
+}
+{% endif %}
+
 
 
 #sidebar {
