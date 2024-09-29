@@ -5,11 +5,12 @@ categories: [AE, AE脚本]
 tags: [AE, 脚本]     # TAG names should always be lowercase
 description: Subtitles Converter
 pin: false
+image:
+  path: /assets/image/posts/aescripts/20230629174013-XM.png
+  alt: Subtitles Converter
 ---
 ## Subtitles Converter
 SRT 剪映JSON 导入脚本
-![字幕脚本](/assets/image/posts/aescripts/20230629174013-XM.png)
-_Subtitles Convertern_
 
 ## 使用说明
 ### 安装
