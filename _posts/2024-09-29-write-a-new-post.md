@@ -778,8 +778,8 @@ mermaid: true
 ## 了解更多
 翻译：Con幺幺、豆包、Google。
 
-有关Jekyll帖子的更多知识，请访问 [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
-[原文1](https://chirpy.cotes.page/posts/text-and-typography/)
+有关Jekyll帖子的更多知识，请访问 [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).<br />
+[原文1](https://chirpy.cotes.page/posts/text-and-typography/)<br />
 [原文2](https://chirpy.cotes.page/posts/text-and-typography/)
 
 ## Reverse Footnote
