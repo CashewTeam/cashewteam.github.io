@@ -22,9 +22,12 @@ image:
 
 ## 几何节点
 [几何节点中文字典](https://blendercz.top/blender/blender)<br />
-首推几何节点文档，[ChyiZ_](https://www.bilibili.com/video/BV1kixqePEWC/)基于Big Nodebook汉化并制作的在线文档，带有案例。<br />
+**首推！！**，[ChyiZ_](https://www.bilibili.com/video/BV1kixqePEWC/)基于Big Nodebook汉化并制作的在线文档，带有案例。<br />
+
 [官方几何节点文档](https://docs.blender.org/manual/zh-hans/4.2/modeling/geometry_nodes/index.html)<br />
 
+## 月离文档库
+[Blender Python API](https://docs.yuelili.com/#/book/Blender/development)<br />
 
 ## 插件资产文档
 [Higgsas几何节点组](https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/)<br />
@@ -45,7 +48,7 @@ image:
 [着色器节点详解汇总](https://www.bilibili.com/video/BV1hr4y1P7cN/)<br />
 
 ### 辣椒酱
-[Blender 2.9-3.4黑铁骑士Ⅱ](https://www.bilibili.com/video/BV1zh411Y7LX/)
+[Blender 2.9-3.4黑铁骑士Ⅱ](https://www.bilibili.com/video/BV1zh411Y7LX/)<br />
 [黑铁骑士Ⅱ物品清单](https://shimo.im/docs/ckYQ8xq6JhVtrGjh/read)<br />
 [Machin3tools](https://www.bilibili.com/video/BV1qf4y1C7Ag/)<br />
 [Blender octane](https://www.bilibili.com/video/BV1sV411o7wx/)<br />
