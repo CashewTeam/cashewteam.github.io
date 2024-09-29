@@ -3,7 +3,7 @@ title: 如何在 Chirpy 使用 Markdown 撰写文章
 date: 2024-09-29 16:30:00 +0800
 categories: [网络, 建站]
 tags: [jekyll, Markdown]
-render_with_liquid: true
+render_with_liquid: false
 pin: false
 math: true
 mermaid: true
@@ -502,11 +502,11 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 #### 社交媒体平台
 
 您可以使用以下语法嵌入来自社交媒体平台的视频：
-{% raw %}
+
 ```liquid
 {% include embed/{Platform}.html id='{ID}' %}
 ```
-{% endraw %}
+
 
  `Platform` 是平台名，`ID`为视频ID。
 
@@ -519,21 +519,19 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 | [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
 
 ##### 示例：
-{% include embed/bilibili.html id='BV1X4411Z7rj' %}
 
-{% raw %}
 ```liquid
 {% include embed/bilibili.html id='BV1X4411Z7rj' %}
 ```
-{% endraw %}
+
 #### 视频文件
 
 如果要直接嵌入视频文件，请使用以下语法：
-{% raw %}
+
 ```liquid
 {% include embed/video.html src='{URL}' %}
 ```
-{% endraw %}
+
 其中`URL`是视频文件的URL，例如。 `/path/to/sample/video.mp4`.
 
 您还可以为嵌入的视频文件指定其他属性。这是允许的属性的完整列表。
@@ -546,7 +544,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 - `types` — 指定以`|`分隔的其他视频格式的扩展名。确保这些文件与您的主视频文件位于同一目录中。
 
 一个使用上述所有内容的示例：
-{% raw %}
+
 ```liquid
 {%
   include embed/video.html
@@ -559,16 +557,16 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
   muted=true
 %}
 ```
-{% endraw %}
+
 
 ### 音频
 
 如果要直接嵌入音频文件，请使用以下语法：
-{% raw %}
+
 ```liquid
 {% include embed/audio.html src='{URL}' %}
 ```
-{% endraw %}
+
 
 Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
 
@@ -580,7 +578,7 @@ Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
 考虑一个使用上述所有内容的示例：
 
 
-{% raw %}
+
 ```liquid
 {%
   include embed/audio.html
@@ -589,7 +587,7 @@ Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
   title='Demo audio'
 %}
 ```
-{% endraw %}
+
 
 ## 代码
 
