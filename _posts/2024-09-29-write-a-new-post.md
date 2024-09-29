@@ -12,6 +12,12 @@ image:
   path: /assets/image/posts/writeanewpost/devices-mockup.png
   alt: Chirpy 主题在多平台上的响应式渲染。
 ---
+<style>
+.is-collapsed {
+  max-height: 0 !important;
+}
+</style>
+
 简单翻译并改进一下官方的文档，方便我后续用Markdown写文章。<br />
 本教程将指导您如何在 _Chirpy_ 模板中撰写文章，即使您以前使用过 Jekyll，也值得阅读，因为许多功能需要特殊的设置。
 
