@@ -9,17 +9,11 @@
 
 /* append your custom style below */
 
-//根据开关折叠
-{% if page.collapsed == true %}
-.is-collapsed {
-  max-height: 0px !important;
-}
-{% else %}
-.is-collapsed {
-  max-height: none !important;
-}
-{% endif %}
+//根据变量折叠
 
+.is-collapsed {
+  max-height: {{ page.collapsed }} !important;
+}
 
 
 #sidebar {
