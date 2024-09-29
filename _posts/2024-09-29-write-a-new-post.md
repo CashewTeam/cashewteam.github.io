@@ -76,7 +76,7 @@ authors: [<author1_id>, <author2_id>]   # 多个作者
 ---
 ```
 
-话虽如此，值“author”也可以识别多个条目。
+话虽如此，值`author`也可以识别多个条目。
 
 > 从文件 `_data/authors.yml`{: .filepath } 中读取作者信息的好处是，页面会带有元标记 `twitter:creator`，丰富了 [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#card-and-content-attribution)，有利于搜索引擎优化。
 {: .prompt-info }
@@ -136,7 +136,7 @@ image:
 ---
 ```
 
-注意 [`media_subpath`](#url-prefix) 也可以传递给预览图，设置好后，属性 `path` 只需要图像文件名。
+注意 [`URL前缀`](#URL前缀) 也可以传递给预览图，设置好后，属性 `path` 只需要图像文件名。
 
 为了简单使用，您也可以只使用 `image` 定义路径。
 
@@ -156,8 +156,7 @@ image:
   lqip: /path/to/lqip-file # or base64 URI
 ---
 ```
-
-> 您可以在这篇帖子的预览图像中观察LQIP \"[Text and Typography](../text-and-typography/)\".
+> 您可以在这篇帖子的预览图像中查看LQIP的使用 \"[Text and Typography](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1)\".
 
 对于一般图像：
 
@@ -352,7 +351,7 @@ Moon
 
 在 _Chirpy_ 中，我们将图像、音频和视频称为媒体资源（Media）。
 
-### 网址前缀
+### URL前缀
 
 有时我们必须为帖子中的多个资源定义重复的URL前缀，这是一项无聊的任务，您可以通过设置两个参数来避免。
 
