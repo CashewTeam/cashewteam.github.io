@@ -14,6 +14,10 @@
   max-height: 750px !important;
 }
 
+.is-collapsed {
+  max-height: 0 !important;
+}
+
 #sidebar {
   background-image: url(https://www.cashewteam.top/assets/image/bg.png); /* <- change background image */
   background-size: cover; /* <- customize the image size */
