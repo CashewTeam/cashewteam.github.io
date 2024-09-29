@@ -35,6 +35,16 @@ _修改前 修改后_
 }
 ```
 
+如果需要让部分目录较长的页面可以折叠，可以在posts的md文件中添加以下代码。
+
+```HTML
+<style>
+.is-collapsed {
+  max-height: 0 !important;
+}
+</style>
+```
+
 ## 其他[Jekyll Theme Chirpy][jtc]相关中文教程：
 [Marvin的教程](https://winxuan.github.io/categories/build/): 建站、配置评论区、搜索引擎收录和一些错误的解决方案。<br />
 [基于 Jekyll-Theme-Chirpy v7.0.0 的个性化方案](https://huanyushi.github.io/posts/chirpy-blog-customization/): MathJax 配置、侧边栏样式、页脚站点统计、背景动画、自定义新的 prompt 和 details 元素样式、LQIP 和反色图片的 Python 实现等内容。<br />
