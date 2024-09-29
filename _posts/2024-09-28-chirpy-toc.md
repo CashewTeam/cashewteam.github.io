@@ -37,7 +37,7 @@ _修改前 修改后_
 
 如果需要让部分目录较长的页面可以折叠，可以在posts的md文件中添加以下代码。
 
-```HTML
+``` HTML
 <style>
 .is-collapsed {
   max-height: 0 !important;
