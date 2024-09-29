@@ -9,14 +9,15 @@
 
 /* append your custom style below */
 
-//可被折叠的高度
-.is-collapsible {
-  max-height: 150px !important;
-}
-//折叠后的高度
+//根据开关折叠
 .is-collapsed {
-  max-height: 0px !important;
+  @if $site.collapsed == true {
+    max-height: 0px !important;
+  } @else {
+    max-height: none !important;
+  }
 }
+
 
 #sidebar {
   background-image: url(https://www.cashewteam.top/assets/image/bg.png); /* <- change background image */
