@@ -10,7 +10,10 @@ image:
   alt: Blender
 ---
 
-搜集汇总了一下网上的 Blender 文档，还有的话可以在评论区补充。
+搜集汇总了一下网上的 Blender 文档，还有的话可以在评论区补充。<br />
+[腰果文档库](https://docs.cashewteam.top/)<br />
+建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。
+
 ## Blender 官方
 ### 4.2 LTS
 [Blender 4.2 参考手册](https://docs.blender.org/manual/zh-hans/4.2/)<br />
@@ -21,7 +24,7 @@ image:
 [Blender 3.6 Python API](https://docs.blender.org/api/3.6/)<br />
 
 ## 几何节点
-[几何节点中文字典](https://blendercz.top/blender/blender)<br />
+[几何节点中文字典](https://blendercz.top/)<br />
 **首推！！**，[ChyiZ_](https://www.bilibili.com/video/BV1kixqePEWC/)基于Big Nodebook汉化并制作的在线文档，带有案例。<br />
 
 [官方几何节点文档](https://docs.blender.org/manual/zh-hans/4.2/modeling/geometry_nodes/index.html)<br />
