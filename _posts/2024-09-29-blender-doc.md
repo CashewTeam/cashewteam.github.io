@@ -36,7 +36,7 @@ image:
 [铁锅炖启动器](https://shimo.im/docs/B1AwdxZewWhjwe3m/read)<br />
 [无限圣杯AI节点(ComfyUI) ](https://shimo.im/docs/Ee32m0w80rfLp4A2/read)<br />
 [Machin3tools](https://www.blendermagic.cn/#/article/5311ab7b-481b-11eb-95ed-0242ac110004)<br />
-
+[MMD Tools](https://mmd-blender.fandom.com/wiki/MMD_Tools)<br />
 
 ## PDF 手册
 [The Big Nodebook: A Geometry Nodes Guide](https://blenderco.cn/70532.html)<br />
