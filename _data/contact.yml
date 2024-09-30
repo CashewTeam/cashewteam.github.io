@@ -2,7 +2,7 @@
 - type: docs
   icon: "fas fa-file-text"
   noblank: true
-  url:  'docs.cashewteam.top'
+  url:  'https://docs.cashewteam.top'
   
 - type: github
   icon: "fab fa-github"
