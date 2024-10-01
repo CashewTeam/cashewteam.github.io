@@ -13,6 +13,9 @@ image:
 搜集汇总了一下网上的 Blender 文档，还有的话可以在评论区补充。<br />
 [腰果文档库](https://docs.cashewteam.top/)<br />
 建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。
+[拓展推荐](https://www.cashewteam.top/posts/blender-extensions/)
+[插件推荐](https://www.cashewteam.top/posts/blender-plugins/)
+[几何节点资产推荐](https://www.cashewteam.top/posts/blender-gn/)
 
 ## Blender 官方
 ### 4.2 LTS
