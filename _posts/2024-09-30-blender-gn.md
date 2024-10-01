@@ -3,7 +3,7 @@ title: Blender 几何节点资产推荐
 date: 2024-10-01 18:00:00 +800
 categories: [Blender, Blender文档]
 tags: [Blender, 文档, 几何节点, 插件]     # TAG names should always be lowercase
-description: Blender 常用拓展推荐
+description: Blender geometry nodes assets recommendation.
 pin: false
 image:
   path: /assets/image/posts/blender/cashewnodes.png

@@ -3,7 +3,7 @@ title: Blender 常用插件推荐
 date: 2024-10-01 16:00:00 +800
 categories: [Blender, Blender文档]
 tags: [Blender, 文档, 插件]     # TAG names should always be lowercase
-description: Blender 常用插件推荐
+description: Blender plugins recommendation.
 pin: false
 image:
   path: /assets/image/posts/blender/4.0splash.jpg
