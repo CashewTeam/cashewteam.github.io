@@ -4,7 +4,7 @@ date: 2024-10-01 18:00:00 +800
 categories: [Blender, Blender文档]
 tags: [Blender, 文档, 几何节点, 插件]     # TAG names should always be lowercase
 description: Blender 常用拓展推荐
-pin: true
+pin: false
 image:
   path: /assets/image/posts/blender/cashewnodes.png
   alt: Blender Extensions
@@ -17,9 +17,8 @@ Cashew Nodes（原B4D）是由我制作的一个 Blender 节点组资产库，�
 ### 链接
 [介绍视频](https://www.bilibili.com/video/BV1gg4y1X7aU/)<br />
 下载：<br />
-<https://pan.baidu.com/s/1UE5_D2bEAC4qd74s16tcgQ?pwd=c7kt>
-[腰果文档库](https://docs.cashewteam.top/)<br />
-建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。<br />
+<https://pan.baidu.com/s/1UE5_D2bEAC4qd74s16tcgQ?pwd=c7kt><br />
+[腰果文档库](https://docs.cashewteam.top/)，建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。<br />
 
 ## T3D GN Presets
 ![T3D](/assets/image/posts/blender/T3D.jpg)
