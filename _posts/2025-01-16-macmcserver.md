@@ -12,7 +12,7 @@ image:
 
 欢迎来到腰果数码，这里是幺幺，M芯片有着目前最强的单核性能和能耗比，是用于小型高性能服务器的不二之选，应上期视频观众要求，本教程会教大家如何在macOS运行我的世界服务端。
 
-1. ## 下载Java
+## 1. 下载Java
 
 第一步当然是下载并安装java，这里推荐在最佳苹果开发者微软的网站下载，<br />
 [https://learn.microsoft.com/zh-cn/java/openjdk/download](https://learn.microsoft.com/zh-cn/java/openjdk/download)  <br />
@@ -35,13 +35,13 @@ image:
 
 选择`pkg`后缀的安装包下载安装即可，如果你经常要玩不同的MC版本也可以都安装上，后面会讲如何切换服务端运行时的Java版本。
 
-2. ## 下载服务端
+## 2. 下载服务端
 
 第二步就是下载服务端核心，我们可以在[Minecraft官网](https://www.minecraft.net/zh-hans/download/server)、[第三方核心的官网](https://www.mohistmc.com/)、[第三方的镜像站](https://sync.mcsl.com.cn/)下载需要的核心
 
 这里演示使用[fabric 1.20.4服务端](https://fabricmc.net/use/server/)。
 
-3. ## 启动命令
+## 3. 启动命令
 
 下载好核心后，新建一个文件夹。
 > **文件夹名字和路径不要有中文和全角字符**
@@ -120,7 +120,7 @@ chmod +x 脚本文件名
 > 不要一次装太多Mod，如果你Mod多最好分批次测试好后再加入，不然有冲突了不大好找。
 {: .prompt-warning }
 
-1. ## 内网穿透
+## 4. 内网穿透
 
 ### 4.1 端口映射
 
