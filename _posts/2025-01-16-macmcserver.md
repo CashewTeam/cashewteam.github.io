@@ -63,7 +63,7 @@ java -Xms1G -Xmx4G -jar fabric-server-launch.jar --nogui
 `/usr/libexec/java_home -V`
 
 将获取到的`java路径`替换脚本中的`JAVA_HOME`参数即可
-![java](/assets/image/posts/macmcserver/javaversion.PNG)
+![java](/assets/image/posts/macmcserver/javaversion.png)
 _在终端列出所以Java版本_
 
 ### 3.2 启动sh
@@ -130,27 +130,27 @@ Sakurafrp官方教程：[https://doc.natfrp.com/launcher/usage.html](https://doc
 
 在服务-创建列表创建一个隧道，选择一个离你最近的节点，因为我们是Java版所以选择`TCP隧道`，设置隧道名，本地端口选择`25565`
 将获取到的`java路径`替换脚本中的`JAVA_HOME`参数即可
-![port](/assets/image/posts/macmcserver/port.PNG)
+![port](/assets/image/posts/macmcserver/port.png)
 _在网页设置Sakurafrp端口_
 
 设置好后，到`首页`复制访问密钥
-![key](/assets/image/posts/macmcserver/key.PNG)
+![key](/assets/image/posts/macmcserver/key.png)
 _在首页复制访问秘钥_
 
 到服务-软件下载页面下载macOS启动器，根据你的CPU架构选择
-![macfrplauncher](/assets/image/posts/macmcserver/macfrplauncher.PNG)
+![macfrplauncher](/assets/image/posts/macmcserver/macfrplauncher.png)
 _下载界面_
 
 打开DMG后将SakuraLauncher（早苗）拖入到应用目录安装
-![frpinstall](/assets/image/posts/macmcserver/frpinstall.PNG)
+![frpinstall](/assets/image/posts/macmcserver/frpinstall.png)
 _安装App_
 
 启动后将刚才复制的密钥粘贴到登录账户点击登录，有需要的可以打开开机启动
-![inputkey](/assets/image/posts/macmcserver/inputkey.PNG)
+![inputkey](/assets/image/posts/macmcserver/inputkey.png)
 _在登录账户处输入访问秘钥_
 
 在隧道列表打开隧道开关
-![openfrp](/assets/image/posts/macmcserver/openfrp.PNG)
+![openfrp](/assets/image/posts/macmcserver/openfrp.png)
 _打开隧道开关_
 
 你的好友就能用日志里的这个地址正常访问你的服务器了。
@@ -158,5 +158,5 @@ _打开隧道开关_
 > 不要忘记输入后面的`:端口号` 注意冒号为英语半角的`:`而不是中文全角的`：`。
 {: .prompt-warning }
 
-![logip](/assets/image/posts/macmcserver/logip.PNG)
+![logip](/assets/image/posts/macmcserver/logip.png)
 _如图处为好友联机需要输入的地址_
