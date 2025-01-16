@@ -112,13 +112,13 @@ chmod +x 脚本文件名
 之后有关Mod安装这里就不多讲了，选择支持Mod的服务端核心后和客户端一样放到Mods就行了，这里说几个注意事项。
 
 > 选择正确的API，下载时不要下错Fabric和Forge的Mod版本，别忘记下载Mod的API依赖。
-> {: .prompt-warning }
+{: .prompt-warning }
 
 > 不要把客户端Mod装到服务端，一些Mod像是小地图，Sodium是客户端模组，在服务端装了就可能就会崩溃。
-> {: .prompt-warning }
+{: .prompt-warning }
 
 > 不要一次装太多Mod，如果你Mod多最好分批次测试好后再加入，不然有冲突了不大好找。
-> {: .prompt-warning }
+{: .prompt-warning }
 
 1. ## 内网穿透
 
@@ -159,7 +159,7 @@ _打开隧道开关_
 
 你的好友就能用日志里的这个地址正常访问你的服务器了。
 
-> 不要忘记输入后面的`:端口号` 注意冒号为英语半角的`:`而不是中文全角的`：`。
+> 不要忘记输入后面的`:端口号` 注意冒号为英语半角的`:`而不是中文全角的`：`
 {: .prompt-warning }
 
 ![logip](/assets/image/posts/macmcserver/logip.png)
