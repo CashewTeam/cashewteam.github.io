@@ -1,10 +1,14 @@
+---
 title: macOS Minecraft 开服教程
 date: 2025-01-16 23:00:00 +800
 categories: [网络, 服务]
 tags: [Minecraft]     # TAG names should always be lowercase
 description: macOS Minecraft Server Tutorial.
 pin: false
-----------
+image:
+  path: /assets/image/posts/macmcserver/minecraft.png
+  alt: Minecraft
+---
 
 欢迎来到腰果数码，这里是幺幺，M芯片有着目前最强的单核性能和能耗比，是用于小型高性能服务器的不二之选，应上期视频观众要求，本教程会教大家如何在macOS运行我的世界服务端。
 
@@ -24,7 +28,7 @@ pin: false
 | ≥1.20.5      | 21        |
 
 具体MC版本与Java相关内容详见<br />
-https://www.bilibili.com/opus/939387567592177669
+<https://www.bilibili.com/opus/939387567592177669>
 
 [微软的网站](https://learn.microsoft.com/zh-cn/java/openjdk/download)清晰地列出了各个版本的下载地址，不过这里没有java8，Arm版Java8需要从[java官网](https://www.java.com/zh-CN/download/)下载
 这里以最新的JDK21为例，如果你是Intel芯片选择`X64`版本，Apple Silicon选择`AArch64`版本。
@@ -47,7 +51,7 @@ https://www.bilibili.com/opus/939387567592177669
 
 将如下命令复制到文件中，在java这一行中可以设置最小和最大内存，确保你使用的服务端核心文件名和启动脚本中的相同。
 
-```Bash
+```bash
 cd "$( dirname "$0" )"
 #定义目录为当前目录
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/microsoft-21.jdk/Contents/Home
@@ -74,7 +78,7 @@ _在终端列出所以Java版本_
 
 使用`chmod`` +x`为脚本添加可执行权限（输入`chmod`` +x` 把文件拖入终端），就能直接用终端运行了
 
-```Bash
+```bash
 chmod +x 脚本文件名
 ```
 
