@@ -139,23 +139,23 @@ _在网页设置Sakurafrp端口_
 
 设置好后，到`首页`复制访问密钥
 ![key](/assets/image/posts/macmcserver/key.png)
-_在首页复制访问秘钥_
+
 
 到服务-软件下载页面下载macOS启动器，根据你的CPU架构选择
 ![macfrplauncher](/assets/image/posts/macmcserver/macfrplauncher.png)
-_下载界面_
+
 
 打开DMG后将SakuraLauncher（早苗）拖入到应用目录安装
 ![frpinstall](/assets/image/posts/macmcserver/frpinstall.png)
-_安装App_
+
 
 启动后将刚才复制的密钥粘贴到登录账户点击登录，有需要的可以打开开机启动
 ![inputkey](/assets/image/posts/macmcserver/inputkey.png)
-_在登录账户处输入访问秘钥_
+
 
 在隧道列表打开隧道开关
 ![openfrp](/assets/image/posts/macmcserver/openfrp.png)
-_打开隧道开关_
+
 
 你的好友就能用日志里的这个地址正常访问你的服务器了。
 
