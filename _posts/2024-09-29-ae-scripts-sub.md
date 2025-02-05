@@ -32,5 +32,5 @@ _文本层效果控件_
 如果想实现更复杂的自定义效果可以用[我的表达式](https://www.cashewteam.top/posts/Expressions/)配合或替代脚本自带的表达式
 ## 下载
 [原贴(下载链接失效)](https://www.yuelili.com/ae/ae-plugin/subtitles-converter/)<br />
-[度盘链接](https://pan.baidu.com/s/1sOWpO49Se6FfX7dPWpy0Bg?pwd=dhn6)<br />
+[夸克链接](https://pan.quark.cn/s/1623d05e5769)<br />
 脚本作者：[无名打字猿](https://github.com/RaymondClr)
