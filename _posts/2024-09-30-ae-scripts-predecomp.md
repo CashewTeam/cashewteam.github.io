@@ -20,4 +20,4 @@ AE首选项-脚本和表达式-打开“允许脚本写入文件和访问网络�
 菜单栏-窗口-Pre&De-Compose_Beta1.0.3.jsxbin
 
 ## 下载
-[度盘链接](https://pan.baidu.com/s/18XAY1UzMDEDCfr6XR6-Ycw?pwd=ykl5)<br />
+[夸克链接](https://pan.quark.cn/s/1623d05e5769)<br />
