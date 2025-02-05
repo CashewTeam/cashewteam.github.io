@@ -15,7 +15,7 @@ image:
 渲染后建议后期再拉高些对比度更还原。<br />
 如果有场景制作的需求欢迎联系。
 ## 下载
-[度盘链接](https://pan.baidu.com/s/1_b6TVe30Vx5E08Zpr1_X5A?pwd=aaca)
+[夸克盘链接](https://pan.quark.cn/s/5c0b9fb07937)
 包含的版本：<br />
 3.6 EEVEE Cycles 白天版本<br />
 3.6 EEVEE 夜晚版本<br />
