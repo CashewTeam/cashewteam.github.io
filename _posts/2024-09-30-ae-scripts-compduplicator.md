@@ -20,4 +20,4 @@ AE首选项-脚本和表达式-打开“允许脚本写入文件和访问网络�
 菜单栏-窗口-合成图层复制中文版True Comp Duplicator.jsxbin
 
 ## 下载
-[度盘链接](https://pan.baidu.com/s/1SY92myZ9nIz3P1krGn9G9Q?pwd=tyzy)<br />
+[夸克链接](https://pan.quark.cn/s/1623d05e5769)<br />
