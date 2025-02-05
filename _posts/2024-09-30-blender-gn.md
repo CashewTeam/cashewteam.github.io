@@ -17,7 +17,8 @@ Cashew Nodes（原B4D）是由我制作的一个 Blender 节点组资产库，�
 ### 链接
 [介绍视频](https://www.bilibili.com/video/BV1gg4y1X7aU/)<br />
 下载：<br />
-<https://pan.baidu.com/s/1UE5_D2bEAC4qd74s16tcgQ?pwd=c7kt><br />
+[几何节点资产下载](https://pan.quark.cn/s/7ca7b6780a54)<br />
+
 [腰果文档库](https://docs.cashewteam.top/)，建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。<br />
 
 ## T3D GN Presets
@@ -42,7 +43,7 @@ _Higgsas Geometry Nodes Toolset_
 很强大的节点资产，而且官方编写了详细的使用文档，只是还没有汉化文档。<br />
 [英语文档]https://higgsas-geo-nodes-manual.readthedocs.io/en/latest/<br />
 [Blender Market](https://blendermarket.com/products/geometry-nodes-groups)<br />
-[下载（包括下面的几个）](https://pan.baidu.com/s/15jI6vypknUpbSCaium_m1A?pwd=2h6n)<br />
+
 这几个都是收费资产，如果你是原作者，不想我在这里分享这些文件请联系我。<br />
 These are all paid assets. If you are the original author and don't want me to share these files here, please contact me.
 ## B4D Tools
