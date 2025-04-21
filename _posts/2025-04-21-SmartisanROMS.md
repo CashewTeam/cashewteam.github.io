@@ -6,7 +6,7 @@ tags: [SMARTISAN]     # TAG names should always be lowercase
 description: SMARTISAN Flashing Resources.
 pin: false
 image:
-  path: /assets/image/posts/smartisan/smartisanos.png
+  path: /assets/image/posts/smartisan/smartisanos.jpg
   alt: smartisanos
 ---
 # Smartisan 刷机资源
@@ -45,7 +45,7 @@ R1资源站（已失效）：
 # 其他
 其他论坛刷机贴
 
-<http://www.laosunit.com/forum-49-1.html>
+<https://www.laosunit.com/forum-49-1.html>
 <https://www.rom100.com/forum-184-1.html>
 
 SuperSU
@@ -105,7 +105,7 @@ Excle表格300+  <https://docs.qq.com/sheet/DSmxHQXdQcU5nbXFR?c=F1A0A0>
 
 # 教程：
 
-（已失效）《TNT常见软硬件问题解决指南》 <http://bbs.smartisan.com/thread-1159467-1-1.html>
+（已失效）《TNT常见软硬件问题解决指南》 <https://bbs.smartisan.com/thread-1159467-1-1.html>
 
 《坚果手机连接触摸屏准备》 by 趣装备 
 
