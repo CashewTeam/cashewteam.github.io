@@ -3,7 +3,7 @@ title: SMARTISAN T1 刷机教程和资源
 date: 2025-04-21 19:00:00 +800
 categories: [资源, 手机]
 tags: [SMARTISAN]     # TAG names should always be lowercase
-description: SMARTISAN Flashing Resources.
+description: SMARTISAN T1 Flashing Resources.
 pin: false
 image:
   path: /assets/image/posts/smartisan/T1.jpg
@@ -16,7 +16,7 @@ T1(3G):[https://dl2.smartisan.com/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-use
 T1(4G):[https://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip](https://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip)
 
 # Smartisan T1 (sfo) 底包、TWRP 及相关工具
-链接：https://pan.quark.cn/s/e6c844278b53
+网盘链接：<https://pan.quark.cn/s/e6c844278b53>
 
 
 ## 写在前面

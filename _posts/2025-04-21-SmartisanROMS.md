@@ -22,19 +22,22 @@ image:
 下载时根据各机型的代号，可以在官方包的网页查看
 
 **底包、TWRP 及相关工具：**
+网盘链接
 
-https://pan.quark.cn/s/8b58eb0f06ba
+<https://pan.quark.cn/s/8b58eb0f06ba>
 
 
 
 魔趣DEV群：
 
 <https://t.me/s/smartisandev>
+
 魔趣论坛留档：
 
 <https://web.archive.org/web/20220523182418/https://bbs.mokeedev.com/c/resources/11>
 
 萤火虫资源站：
+
 <https://www.yhcres.top/02-%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF/%E9%94%A4%E5%AD%90%E5%9D%9A%E6%9E%9CSmartisan#google_vignette>
 
 R1资源站（已失效）：
@@ -46,6 +49,7 @@ R1资源站（已失效）：
 其他论坛刷机贴
 
 <https://www.laosunit.com/forum-49-1.html>
+
 <https://www.rom100.com/forum-184-1.html>
 
 SuperSU
