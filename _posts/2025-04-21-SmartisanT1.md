@@ -12,8 +12,8 @@ image:
 
 # 官方最新包
 
-T1(3G):[https://dl2.smartisan.com/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-user-sfo-b16e127f93.zip](http://dl2.smartisan.com/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-user-sfo-b16e127f93.zip)
-T1(4G):[https://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip](http://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip)
+T1(3G):[https://dl2.smartisan.com/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-user-sfo-b16e127f93.zip](https://dl2.smartisan.com/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-user-sfo-b16e127f93.zip)
+T1(4G):[https://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip](https://dl2.smartisan.com/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip)
 
 # Smartisan T1 (sfo) 底包、TWRP 及相关工具
 链接：https://pan.quark.cn/s/e6c844278b53
