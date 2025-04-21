@@ -22,9 +22,8 @@ image:
 下载时根据各机型的代号，可以在官方包的网页查看
 
 **底包、TWRP 及相关工具：**
-网盘链接
 
-<https://pan.quark.cn/s/8b58eb0f06ba>
+网盘链接：<https://pan.quark.cn/s/8b58eb0f06ba>
 
 
 
