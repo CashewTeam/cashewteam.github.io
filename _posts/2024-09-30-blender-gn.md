@@ -19,7 +19,17 @@ Cashew Nodes（原B4D）是由我制作的一个 Blender 节点组资产库，�
 下载：<br />
 [几何节点资产下载](https://pan.quark.cn/s/7ca7b6780a54)<br />
 
-[腰果文档库](https://docs.cashewteam.top/)，建设中，以后会把 Cashew Nodes（前B4D）的文档放这里。<br />
+[文档编写中](https://docs.cashewteam.top/docs/Cashew%20Nodes/)，编写中，随缘更新。<br />
+[GitHub仓库](https://github.com/CashewTeam/Cashew-Nodes)
+
+## -blueish-的资产
+![blueish](/assets/image/posts/blender/blueish.jpg)
+_blueish_
+UP主-blueish-制作的资产，功能非常强大，强烈推荐。
+
+### 链接
+[blueish的B站首页](https://space.bilibili.com/3546391456516604)<br />
+[blueish的小店](https://mall.bilibili.com/neul-next/detailshop/index.html?smallShopMid=3546391456516604&noTitleBar=1&page=detailshop_detail&outsideMall=yes&channel=COPY&share_mid=1762926#themeType=2)
 
 ## T3D GN Presets
 ![T3D](/assets/image/posts/blender/T3D.jpg)
