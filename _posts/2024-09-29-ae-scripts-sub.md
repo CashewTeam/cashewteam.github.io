@@ -8,7 +8,7 @@ pin: false
 ---
 ## Subtitles Converter
 SRT 剪映JSON 导入脚本<br />
-![字幕脚本](/assets/image/posts/aescripts/20230629174013-XM.png)
+![字幕脚本](/assets/image/posts/aescripts/20230629174013-XM.png)<br />
 _Subtitles Convertern_
 
 ## 使用说明
@@ -25,7 +25,7 @@ AE首选项-脚本和表达式-打开“允许脚本写入文件和访问网络�
 **不选择任何图层**，点击构建字幕标记，将会自动新建文本图层并为文本层添加表达式。<br />
 **选择已有图层**，点击构建字幕标记，将会为图层构建标记但不能添加任何表达式。
 ### 设置效果
-![文本层效果控件](/assets/image/posts/aescripts/字幕效果控件.jpg)
+![文本层效果控件](/assets/image/posts/aescripts/字幕效果控件.jpg)<br />
 _文本层效果控件_
 使用脚本新建文本层会自动为图层添加三个设置控件，可以设置字幕的间隔、过渡、过渡时间。<br />
 
