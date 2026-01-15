@@ -26,24 +26,24 @@ image:
 {% include embed/bilibili.html id='BV1xN411q7sq' %}
 
 ## 预览
-![原图](/assets/image/posts/blender/baclassroom.jpg)
+![原图](/assets/image/posts/blender/baclassroom.jpg)<br />
 _白天原图_
 
-![eevee](/assets/image/posts/blender/baclassroom-ev.jpg)
+![eevee](/assets/image/posts/blender/baclassroom-ev.jpg)<br />
 _白天 EEVEE_
 
-![cycles](/assets/image/posts/blender/baclassroom-cy.jpg)
+![cycles](/assets/image/posts/blender/baclassroom-cy.jpg)<br />
 _白天 Cycles_
 
-![夜晚原图](/assets/image/posts/blender/BG_AronaRoom_Night.webp)
+![夜晚原图](/assets/image/posts/blender/BG_AronaRoom_Night.webp)<br />
 _夜晚原图_
 
-![night](/assets/image/posts/blender/baclassroom-evnight.jpg)
+![night](/assets/image/posts/blender/baclassroom-evnight.jpg)<br />
 _夜晚 EEVEE Next_
 
 ## Vrchat 世界
 
-![Vrchat](/assets/image/posts/blender/baclassroom-vrc.jpg)
+![Vrchat](/assets/image/posts/blender/baclassroom-vrc.jpg)<br />
 _VRChat_
 由`KuroSaki Rin`移植到 Unity 制作的 VRChat 世界，`属性咖灰`把它作为了 BA 模型房的地图。欢迎来 VRChat 世界中访问游玩。<br />
 
