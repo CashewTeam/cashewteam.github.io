@@ -11,11 +11,20 @@ image:
 ---
 # Smartisan 刷机资源
 
-**官方最新包：**
+# **官方包：**
+
+导演归档网站(可能已失效)
 <https://sm.cashewteam.top/>
 
+迅雷网盘（含部分旧版包）提取码：pnm3
 
-**魔趣ROM：**
+<https://pan.xunlei.com/s/VOme7tdxDN6X-abDeFMwqQFmA1>
+
+萤火虫资源站：
+
+<https://www.yhcres.top/02-%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF/%E9%94%A4%E5%AD%90%E5%9D%9A%E6%9E%9CSmartisan#google_vignette>
+
+# **魔趣ROM：**
 
 <https://sourceforge.net/projects/mokee/files/>
 
@@ -35,9 +44,7 @@ image:
 
 <https://web.archive.org/web/20220523182418/https://bbs.mokeedev.com/c/resources/11>
 
-萤火虫资源站：
 
-<https://www.yhcres.top/02-%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF/%E9%94%A4%E5%AD%90%E5%9D%9A%E6%9E%9CSmartisan#google_vignette>
 
 R1资源站（已失效）：
 
@@ -68,6 +75,8 @@ Magisk
 <https://github.com/topjohnwu/Magisk>
 
 LSPosed
+
+<https://github.com/JingMatrix/Vector>
 
 <https://github.com/LSPosed/LSPosed>
 
